@@ -154,7 +154,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="h-8 w-8 rounded-xl bg-blue-600 grid place-items-center text-white">✓</div>
-            <h1 className="text-lg md:text-xl font-bold">FactCheck Portal</h1>
+            <h1 className="text-lg md:text-xl font-bold">FactCheck</h1>
           </div>
 
           <Link
